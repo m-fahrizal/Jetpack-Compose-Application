@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Submission Jetpack</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="about_page">About</string>
+    <string name="price">Rp. %d</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp. %d</string>
+    <string name="total_order">Total pesanan : Rp. %d</string>
+    <string name="back">Back</string>
+    <string name="Indomie">Indomie</string>
+    <string name="share_message">Hey, I have buy some %1$d Indomie with total %2$d Rupiah. Do you want too?</string>
+    <string name="search_indomie">Cari Indomie Favoritmu!</string>
+    <string name="name">Muhammad Fahrizal</string>
+    <string name="email">A304DSX1262@bangkit.academy</string>
+    <string name="goreng">Indomie Goreng</string>
+    <string name="order">Order</string>
+
+    <string-array name="data_description">
+        <item>\nKami Menjual Indomie dengan berbagai rasa!</item>
+        <item> 1. Indomie Goreng Aceh</item>
+        <item> 2. Indomie Ayam Bawang</item>
+        <item> 3. Indomie Ayam Spesial</item>
+        <item> 4. Indomie Cabe Ijo</item>
+        <item> 5. Indomie Ayam Geprek</item>
+        <item> 6. Indomie Goreng</item>
+        <item> 7. Indomie Iga Penyet</item>
+        <item> 8. Indomie Goreng Jumbo </item>
+        <item> 9. Indomie Goreng Jumbo Panggang</item>
+        <item> 10. Indomie Kaldu Ayam</item>
+        <item> 11. Indomie Kari Ayamg</item>
+        <item> 12. Indomie Kriuk</item>
+        <item> 13. Indomie Sambel Matah</item>
+        <item> 14. Indomie Goreng Pedas</item>
+        <item> 15. Indomie Goreng Rendang</item>
+        <item> 16. Indomie Sambal Rica-Rica</item>
+        <item> 17. Indomie Seblak</item>
+        <item> 18. Indomie Soto Spesial</item>
+        <item> 19. Indomie Soto Lamongan</item>
+        <item> 20. Indomie Soto Mie\n</item>
+        <item>Silakan pilih menu favoritmu dan rasakan kenikmatannya!</item>
+    </string-array>
+</resources>
